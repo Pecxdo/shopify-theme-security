@@ -9,13 +9,13 @@ Combina un escáner automático (Python, sin dependencias) con una revisión man
 Para todos tus proyectos:
 
 ```bash
-git clone https://github.com/<TU_USUARIO>/shopify-theme-security.git ~/.claude/skills/shopify-theme-security
+git clone https://github.com/Pecxdo/shopify-theme-security.git ~/.claude/skills/shopify-theme-security
 ```
 
 Solo para un proyecto (desde la raíz del tema):
 
 ```bash
-git clone https://github.com/<TU_USUARIO>/shopify-theme-security.git .claude/skills/shopify-theme-security
+git clone https://github.com/Pecxdo/shopify-theme-security.git .claude/skills/shopify-theme-security
 ```
 
 Para actualizar: `git pull` dentro de la carpeta de la skill.
